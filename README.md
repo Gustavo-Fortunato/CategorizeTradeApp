@@ -1,5 +1,5 @@
 # Categorize Trade Application
-# # Description
+## Description
 This C# solution follows SOLID principles by separating concerns into distinct classes/interfaces, 
 providing flexibility for future modifications and extensions. 
 The NUnit tests ensures that the categorization logic works as expected for different trade scenarios.
