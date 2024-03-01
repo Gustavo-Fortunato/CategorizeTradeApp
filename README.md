@@ -4,6 +4,8 @@ This C# solution follows SOLID principles by separating concerns into distinct c
 providing flexibility for future modifications and extensions. 
 The NUnit tests ensures that the categorization logic works as expected for different trade scenarios.
 
+You can find a T-SQL solution for this issue at CategorizeTradeApp files called 'tradeCategorize.sql'.
+
 In this Domain-Driven Design case, the Strategy design pattern would fit best. The Strategy pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable. 
 This allows the client (in this case, the code that categorizes trades) to vary its behavior based on the selected algorithm without modifying its structure.
 
