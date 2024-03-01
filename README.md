@@ -15,3 +15,4 @@ This way, when new rules are added, removed, or modified in the future, we can e
 By implementing this pattern, we encapsulate the logic for each risk category in separate classes, making it easy to manage, modify, 
 or extend the categorization rules without affecting the overall structure of the categorization process.
 Strategy Design Pattern: https://sourcemaking.com/design_patterns/strategy
+![Cópia de Search](https://github.com/Gustavo-Fortunato/CategorizeTradeApp/assets/67340658/a5bd2763-9a3a-4145-b28e-240efdaddffe)
